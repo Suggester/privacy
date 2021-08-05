@@ -24,7 +24,6 @@ Les commandes utilisées ainsi que les serveurs rejoints et quittés par le bot 
 ## Pourquoi avons nous besoin et comment utilisons-nous vos données ?
 Les données configurées servent au fonctionnement des différentes fonctionnalités du bot. Sans procéder à cette collection de données, Suggester ne pourrait pas fonctionner. Les raisons listées ci-dessus sont entièrement exhaustives. Nous ne communiquerons jamais les informations que nous stockons à des utilisateurs non autorisés. 
 
- 
 ## Sécurité
 
 Toutes les données et les services du bot sont protégés par authentification et l'accès est limité à un petit sous-ensemble d'utilisateurs (développeurs et, pour certaines données, membres du personnel de Suggester). Si vous pensez avoir trouvé une vulnérabilité dans l'un de nos systèmes, contactez un de nos développeurs (`Brightness#0001` ou `Ben!#0002`) **en message privé** avec des informations préciserons et nous enquêterons.
@@ -34,9 +33,7 @@ Toutes les données et les services du bot sont protégés par authentification 
 Les bots qui aident la gestion du serveur de support de Suggester stocke également des informations:\
 **VoteBoat#1330**: Votre identifiant d'utilisateur et le nombre de vote que vous avez sur chaque site\
 **i18n#1614**: Le contenu des traductions ainsi que votre identifiant d'utilisateur afin d'utiliser un système de permission.
-
 **Suggester Support#5646**: Les messages privés envoyés au bot, votre tag d'utilisateur, votre surnom (si présent), date de création de votre compte ainsi que son age. Ces informations sont uniquement stockées si vous utilisez le bot.
-
 
 ## Contact
 Si vous avez des questions concernant les données que nous stockons ou les fonctions du bot, veuillez contacter un membre de notre équipe de support via le [serveur de support](https://suggester.js.org/support). Nous serons plus qu'heureux de dissiper toute préoccupation que vous pourriez avoir.
