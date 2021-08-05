@@ -20,7 +20,7 @@ Questi dati sono usati da tutto il bot per farlo funzionare. Se i dati elencati 
 Tutti i dati e il bot sono protetti da un sistema di autenticazione e l'accesso è limitato ad un gruppo circoscritto di utenti (gli sviluppatori, e per alcuni dati, i membri dello Staff di Suggester). Se credi di aver trovato un problema di sicurezza, **non pubblicare niente al riguardo**. Scrivi un messaggio diretto ad uno sviluppatore (`Brightness#0001` oppure `Ben!#0002`) con tutti i dettagli e avvieremo un'indagine.
 
 ## Altro
-I bot che aiutano a gestire il server Discord di Suggester conservano a loro volta delle informazioni:
+I bot che aiutano a gestire il server Discord di Suggester conservano a loro volta delle informazioni:\
 **VoteBoat#1330:** Il tuo ID utente e il numero di voti che hai per ogni sito
 
 **i18n#1614:** I contenuti dei messaggi che invii come traduzioni e il tuo ID utente per gestire i permessi
