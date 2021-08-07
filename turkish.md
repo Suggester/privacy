@@ -29,4 +29,4 @@ Suggester Discord sunucusunu yönetmeye yardımcı olan botlar ayrıca bazı bil
 ## Endişeler
 Sakladığımız veriler veya botun işlevleri hakkında herhangi bir endişeniz varsa, lütfen Suggester'ın [destek sunucusu](https://suggester.js.org/support) aracılığıyla Suggester Personel Ekibinin bir üyesiyle iletişime geçin. Endişelerinizi gidermekten mutluyuz.
 
-!> Verilerinizin sistemlerimizden kaldırılmasını istiyorsanız, lütfen yukarıda listelenen yapımcılardan biriyle iletişime geçin, size oradan yardımcı olalım.
+**Verilerinizin sistemlerimizden kaldırılmasını istiyorsanız, lütfen yukarıda listelenen yapımcılardan biriyle iletişime geçin, size oradan yardımcı olalım.**
