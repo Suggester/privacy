@@ -31,7 +31,6 @@ Les bots qui aident la gestion du serveur de support de Suggester stocke égalem
 **VoteBoat#1330**: Votre identifiant d'utilisateur et le nombre de vote que vous avez sur chaque site\
 **i18n#1614**: Le contenu des traductions ainsi que votre identifiant d'utilisateur afin d'utiliser un système de permission.
 **Suggester Modmail#5646**: Les messages privés envoyés au bot, votre tag d'utilisateur, votre surnom (si présent), date de création de votre compte ainsi que son age. Ces informations sont uniquement stockées si vous utilisez le bot.
-**Support#8828**: Aucune donnée n'est stockée.
 
 ## Contact
 Si vous avez des questions concernant les données que nous stockons ou les fonctions du bot, veuillez contacter un membre de notre équipe de support via le [serveur de support](https://suggester.js.org/support). Nous serons plus qu'heureux de dissiper toute préoccupation que vous pourriez avoir.
