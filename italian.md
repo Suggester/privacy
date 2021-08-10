@@ -21,9 +21,9 @@ Tutti i dati e il bot sono protetti da un sistema di autenticazione e l'accesso 
 
 ## Altro
 I bot che aiutano a gestire il server Discord di Suggester conservano a loro volta delle informazioni:\
-**VoteBoat#1330:** Il tuo ID utente e il numero di voti che hai per ogni sito
-**i18n#1614:** I contenuti dei messaggi che invii come traduzioni e il tuo ID utente per gestire i permessi
-**Suggester Modmail#5646:** I messaggi diretti inviati al bot, il tuo tag, nickname (se presente), data di creazione del tuo account ed età del tuo account (solo se/quandi contatti il bot inviandogli un messaggio diretto)
+**VoteBoat#1330:** Il tuo ID utente e il numero di voti che hai per ogni sito\
+**i18n#1614:** I contenuti dei messaggi che invii come traduzioni e il tuo ID utente per gestire i permessi\
+**Suggester Modmail#5646:** I messaggi diretti inviati al bot, il tuo tag, nickname (se presente), data di creazione del tuo account ed età del tuo account (solo se/quandi contatti il bot inviandogli un messaggio diretto)\
 **Support#8828:** Non viene conservato alcun dato.
 
 # Per domande o dubbi
