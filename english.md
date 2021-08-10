@@ -23,8 +23,9 @@ All data and bot services are protected by authentication and access is limited 
 Bots that help to manage the Suggester Discord server also store some information:\
 **VoteBoat#1330**: Your user ID and the number of votes you have on each site\
 **i18n#1614**: Content provided as translations for strings and your user ID for permission purposes\
-**Suggester Support#5646**: DMs sent to the bot, your user tag, nickname (if any), account creation date and account age (only if/when you contact the bot by sending it a direct message)
-
+**Suggester Modmail#5646**: DMs sent to the bot, your user tag, nickname (if any), account creation date and account age (only if/when you contact the bot by sending it a direct message)
+**Support#8828**: No data is stored
+.
 ## Concerns
 If you have any concerns about the data we store or the functions of the bot, please contact a member of the Suggester Staff Team via the [support server](https://suggester.js.org/support). 
 We'll be more than happy to clear up any concerns you may have.
