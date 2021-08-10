@@ -18,7 +18,7 @@ Pour assurer le bon fonctionnement du bot, nous stockons des informations liées
 
 - **URLs de Pièce Jointe:** Nous stockons les URLs des fichiers attachés aux suggestions afin de supporter l'ajout de fichier aux suggestions.
 
-Les commandes utilisées ainsi que les serveurs rejoints et quittés par le bot sont traqués à des fins analytiques. Nous stockons également des données liées aux tableaux Trello connectés au bot ainsi que les actions configurées (comme la création de carte).
+**Les commandes utilisées ainsi que les serveurs rejoints et quittés par le bot sont traqués** à des fins analytiques. Nous stockons également des données liées aux tableaux Trello connectés au bot ainsi que les actions configurées (comme la création de carte).
 
 ## Pourquoi avons-nous besoin et comment utilisons-nous vos données ?
 Les données configurées servent au fonctionnement des différentes fonctionnalités du bot. Sans procéder à cette collection de données, Suggester ne pourrait pas fonctionner. Les raisons listées ci-dessus sont entièrement exhaustives. Nous ne communiquerons jamais les informations que nous stockons à des utilisateurs non autorisés. 
@@ -29,8 +29,8 @@ Toutes les données et les services du bot sont protégés par authentification 
 ## Autres
 Les bots qui aident la gestion du serveur de support de Suggester stocke également des informations:\
 **VoteBoat#1330**: Votre identifiant d'utilisateur et le nombre de vote que vous avez sur chaque site\
-**i18n#1614**: Le contenu des traductions ainsi que votre identifiant d'utilisateur afin d'utiliser un système de permission.
-**Suggester Modmail#5646**: Les messages privés envoyés au bot, votre tag d'utilisateur, votre surnom (si présent), date de création de votre compte ainsi que son age. Ces informations sont uniquement stockées si vous utilisez le bot.
+**i18n#1614**: Le contenu des traductions ainsi que votre identifiant d'utilisateur afin d'utiliser un système de permission.\
+**Suggester Modmail#5646**: Les messages privés envoyés au bot, votre tag d'utilisateur, votre surnom (si présent), date de création de votre compte ainsi que son age. Ces informations sont uniquement stockées si vous utilisez le bot.\
 **Support#8828**: Aucune donnée n'est stockée.
 
 ## Contact
