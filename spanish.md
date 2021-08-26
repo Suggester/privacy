@@ -10,14 +10,14 @@ Para que el bot pueda funcionar almacenamos la siguiente información sobre usua
 - **Emojis de Servidores:** Almacenamos los nombres e IDs de los emojis del servidor si el servidor configura un emoji como emoji de reacción en el feed de sugerencias.
 - **Sugerencias Realizadas/Comentarios:** Almacenamos el contenido de los mensajes enviados como sugerencias y los comentarios para que el bot muestre los datos sobre cada sugerencia.
 - **URLs de Adjuntos:** Almacenamos las URLs de los archivos adjuntos a las sugerencias para que la función de adjuntar pueda funcionar.\
-Almacenamos los **comandos usados y los servidores en los que el bot es añadido/expulsado** con finalidad analítica.
+Almacenamos los **comandos usados y los servidores en los que el bot es añadido/expulsado** con fines analíticos.
 Almacenamos la información perteneciente a los tableros de Trello conectados al bot y acciones como la creación de tarjetas y comentarios realizados por el bot en esos tableros.
 
 ## ¿Por Qué Lo Necesitamos & Cómo Usamos Esos Datos?
 Estos datos son usados por el bot para que este funcione. Sin almacenar los datos indicados más arriba, no sería posible que Suggester funcionase. Los datos que almacenamos son usados con los propósitos indicados arriba, para nada más. Nunca daremos la información que almacenamos a usuarios no autorizados.
 
 ## Seguridad
-Todos los datos y los servicios del bot están protegidos por un sistema de autentificación y el acceso está limitado a un peque´ño grup(`Brightness#0001` or `Ben!#0002`) con información sobre este fallo y lo investigaremos.
+Todos los datos y los servicios del bot están protegidos por un sistema de autentificación y el acceso está limitado a un pequeño grupo de usuarios (desarrolladores y, para algunos datos, los miembros del Staff de Suggester). Si crees que has encontrado un fallo de seguridad en uno de nuestros sistemas, **no** lo avises en un canal público. Envía un MD a uno de los desarrolladores (`Brightness#0001` o `Ben!#0002`) con información sobre este fallo y lo investigaremos.
 
 ## Otros
 Los bots que ayudan a administrar el servidor de Discord de Suggester también almacenan alguna información:\
