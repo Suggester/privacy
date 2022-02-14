@@ -18,7 +18,7 @@ Pour assurer le bon fonctionnement du bot, nous stockons des informations liées
 
 - **URLs de Pièce Jointe:** Nous stockons les URLs des fichiers attachés aux suggestions afin de supporter l'ajout de fichier aux suggestions.
 
-**Les commandes utilisées ainsi que les serveurs rejoints et quittés par le bot sont traqués** à des fins analytiques. Nous stockons également des données liées aux tableaux Trello connectés au bot ainsi que les actions configurées (comme la création de carte).
+**Les commandes utilisées ainsi que les serveurs rejoints et quittés par le bot sont traqués** à des fins analytiques. Nous stockons également des données liées aux tableaux Trello connectés au bot ainsi que les actions configurées (comme la création de carte par exemple).
 
 ## Pourquoi avons-nous besoin et comment utilisons-nous vos données ?
 Les données configurées servent au fonctionnement des différentes fonctionnalités du bot. Sans procéder à cette collection de données, Suggester ne pourrait pas fonctionner. Les raisons listées ci-dessus sont entièrement exhaustives. Nous ne communiquerons jamais les informations que nous stockons à des utilisateurs non autorisés. 
@@ -32,7 +32,7 @@ Les bots qui aident la gestion du serveur de support de Suggester stocke égalem
 
 **i18n#1614**: Le contenu des traductions ainsi que votre identifiant d'utilisateur afin d'utiliser un système de permission.\
 **Suggester Modmail#5646**: Les messages privés envoyés au bot, votre tag d'utilisateur, votre surnom (si présent), date de création de votre compte ainsi que son age. Ces informations sont uniquement stockées si vous utilisez le bot.\
-**Support#8828**: Aucune donnée n'est stockée.
+**Support#8828**: Ce bot a sa propre politique de confidentialité que vous pourez accéder [ici](https://suggester.js.org/#/support-bot-privacy).
 
 ## Contact
 Si vous avez des questions concernant les données que nous stockons ou les fonctions du bot, veuillez contacter un membre de notre équipe de support via le [serveur de support](https://suggester.js.org/support). Nous serons plus qu'heureux de dissiper toute préoccupation que vous pourriez avoir.
