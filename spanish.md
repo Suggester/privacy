@@ -24,7 +24,8 @@ Los bots que ayudan a administrar el servidor de Discord de Suggester también a
 **VoteBoat#1330**: Tu ID de usuario y el númer de votos que tienes en cada sitio\
 **i18n#1614**: El contenido que has enviado como traducciones y tu ID de usuario con la finalidad de controlar los permisos\
 **Suggester Modmail#5646**: Los MDs enviados al bot, tu usuario y discriminador, apodo (si tienes), fecha de creación de la cuenta y edad de la cuenta (solo si/cuando contactas al bot enviándole un mensaje directo)\
-**Support#8828**: No se almacena ningún dato.
+**Support#8828**: Este bot tiene su propio documento que puedes encontrar [aquí](https://suggester.js.org/#/support-bot-privacy).
+ 
 
 ## Preocupaciones
 Si te preocupa algo sobre la información que almacenamos o el funcionamiento del bot, por favor, contacta con un miembro del Equipo del Staff de Suggester en el [servidor de soporte](https://suggester.js.org/support).
