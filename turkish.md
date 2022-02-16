@@ -11,7 +11,7 @@ Botun çalışabilmesi için sunucular ve kullanıcılar hakkında bazı bilgile
 - **Sunucu Emote'ları:** Bir sunucu bir ifadeyi öneri akışında bir tepki ifadesi olarak yapılandırırsa, sunucu ifade adlarını/ID'lerini saklarız.
 - **Gönderilen Öneriler/Yorumlar:** Botun her öneri hakkında veriye sahip olması için öneri ve yorum olarak gönderilen mesaj içeriğini saklarız.
 - **Bağlılık URL'leri:** Ekleme özelliğini mümkün kılmak için önerilere eklenen dosyaların URL'lerini saklarız.
-- 
+
 Analitik amaçlar için **kullanılan komutları ve botun eklendiği/çıkarıldığı sunucuları** kaydederiz.
 Bot'a bağlı Trello tahtalarına ait bilgileri ve kart oluşturma ve bot aracılığıyla yapılan yorumlar gibi işlemleri bu tahtalarda saklarız.
 
@@ -26,7 +26,7 @@ Suggester Discord sunucusunu yönetmeye yardımcı olan botlar ayrıca bazı bil
 **VoteBoat#1330**: Kullanıcı ID'niz ve her sitede sahip olduğunuz oy sayısı\
 **i18n#1614**: Dizeler için çeviri olarak sağlanan içerik ve izin amacıyla kullanıcı ID'niz\
 **Suggester Support#5646**: Bot'a gönderilen DM'ler, kullanıcı etiketiniz, sunucuya özel ad (varsa), hesap oluşturma tarihi ve hesap yaşı (sadece bota doğrudan mesaj göndererek/iletişim kurduğunuzda)
-**Support#8828**: Hiçbir veri saklanmaz.
+**Support#8828**: Bunun kendine ait bir dokümanı var, [burada](https://suggester.js.org/#/support-bot-privacy) bulabilirsiniz.
 
 ## Endişeler
 Sakladığımız veriler veya botun işlevleri hakkında herhangi bir endişeniz varsa, lütfen Suggester'ın [destek sunucusu](https://suggester.js.org/support) aracılığıyla Suggester Personel Ekibinin bir üyesiyle iletişime geçin. Endişelerinizi gidermekten mutluyuz.
